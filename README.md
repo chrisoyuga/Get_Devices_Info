@@ -1,2 +1,2 @@
 # Get_Devices_Info
-This script demostrate using SSH via Paramiko to get vrf information from two routers and  print it to the screen.
+This script demostrates using SSH via Paramiko to get vrf information from two routers and  print it to the screen.
